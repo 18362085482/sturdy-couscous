@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?><business id="ROLEMANAGE"><body><input><appcode>应用编码</appcode><ywlx>业务类型</ywlx>< roleid>角色ID</ roleid><rolename>角色名称</rolename><roledesc>角色描述</roledesc><isenable>是否启用</isenable><sort>排序</sort></input></body></business>
+
+
+curl -v -d '<?xml version="1.0" encoding="utf-8"?><business id="ROLEMANAGE"><body><input><appcode>0</appcode><ywlx>0</ywlx><roleid>1001</roleid><rolename>root123</rolename><roledesc></roledesc><isenable>1</isenable><sort>0</sort></input></body></business>' -H 'Content-Type: application/xml' http://106.14.13.223:8084/api/transferinfo
+
+curl -v -d '<?xml version="1.0" encoding="utf-8"?><business id="LOGIN"><body><input><username>shuzu00</username><deviceno>P101173T00149</deviceno></input></body></business>' -H 'Content-Type: application/xml,timestamp:1495810561' http://106.14.13.223:8084/api/transferinfo

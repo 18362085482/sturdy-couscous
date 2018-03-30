@@ -1,0 +1,14 @@
+# /Users/mier/Documents/pythonws/funkload-demo106.14.13.223/simple/report-resources vs /Users/mier/Documents/pythonws/funkload-demo106.14.13.223/simple/report-onecpu
+# Page stat for: /Users/mier/Documents/pythonws/funkload-demo106.14.13.223/simple/report-resources
+# CUs Apdex* Rating SPPS maxSPPS TOTAL SUCCESS ERROR MIN AVG MAX P10 MED P90 P95
+1 1.000 Excellent 8.000 9.000 32 32 0.00 0.103 0.120 0.166 0.107 0.119 0.127 0.146
+2 1.000 Excellent 17.250 19.000 69 69 0.00 0.098 0.119 0.264 0.102 0.111 0.140 0.175
+3 1.000 Excellent 26.500 27.000 106 106 0.00 0.102 0.114 0.142 0.104 0.113 0.129 0.135
+4 1.000 Excellent 29.250 30.000 117 117 0.00 0.117 0.137 0.333 0.122 0.131 0.150 0.157
+5 1.000 Excellent 31.250 32.000 125 125 0.00 0.132 0.158 0.360 0.139 0.150 0.186 0.197
+6 1.000 Excellent 34.750 36.000 139 139 0.00 0.139 0.172 0.402 0.152 0.167 0.191 0.201
+8 1.000 Excellent 38.750 40.000 155 155 0.00 0.165 0.205 0.610 0.170 0.192 0.228 0.239
+10 1.000 Excellent 40.250 42.000 161 161 0.00 0.174 0.244 0.887 0.195 0.232 0.283 0.295
+16 1.000 Excellent 41.000 44.000 164 164 0.00 0.302 0.390 1.431 0.332 0.384 0.437 0.456
+
+

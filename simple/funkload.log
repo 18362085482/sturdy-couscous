@@ -1,0 +1,12 @@
+2017-05-25 22:58:06,045 INFO test_simple: [test_simple] description not found
+2017-05-25 22:58:06,045 DEBUG test_simple: Starting -----------------------------------
+	
+2017-05-25 22:58:06,045 INFO test_simple: [main] url5 not found
+2017-05-25 22:58:06,047 INFO test_simple_2: [test_simple_2] description not found
+2017-05-25 22:58:06,048 DEBUG test_simple_2: Starting -----------------------------------
+	
+2017-05-25 22:58:06,048 INFO test_simple_2: [main] url1 not found
+2017-05-26 12:22:59,576 INFO test_issue_007_invoice: [test_issue_007_invoice] description not found
+2017-05-26 12:22:59,577 DEBUG test_issue_007_invoice: Starting -----------------------------------
+	
+2017-05-26 12:22:59,577 INFO test_issue_007_invoice: [main] invoice_url not found

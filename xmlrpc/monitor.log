@@ -1,0 +1,8 @@
+2017-05-22 19:48:12,731 INFO Init XML/RPC server localhost:44402.
+2017-05-22 19:48:12,778 INFO XML/RPC server pid=2980 running.
+2017-05-22 19:49:48,218 INFO stopServer request.
+2017-05-22 19:49:48,719 INFO XML/RPC server pid=2980 stopped.
+2017-05-22 21:12:34,561 INFO Init XML/RPC server localhost:44402.
+2017-05-22 21:12:34,608 INFO XML/RPC server pid=3585 running.
+2017-05-22 21:14:10,160 INFO stopServer request.
+2017-05-22 21:14:10,662 INFO XML/RPC server pid=3585 stopped.

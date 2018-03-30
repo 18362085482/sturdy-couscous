@@ -1,0 +1,21 @@
+<funkload version="1.17.1" time="2018-03-30T16:33:31.191739">
+<config key="sleep_time_min" value="0.0" />
+<config key="node" value="chenghaodeMacBook-Pro.local" />
+<config key="startup_delay" value="0.2" />
+<config key="cycles" value="[200]" />
+<config key="cycle_time" value="0.02" />
+<config key="description" value="Access the main URL 20 times" />
+<config key="configuration_file" value="/Users/mier/Documents/pythonws/funkload-demo106.14.13.223/simple/Simple.conf" />
+<config key="class_title" value="Simple FunkLoad tests" />
+<config key="server_url" value="http://localhost/simBatch/public" />
+<config key="module" value="test_Simple" />
+<config key="id" value="test_simple" />
+<config key="class_description" value="Simply testing a default static page" />
+<config key="sleep_time" value="0.5" />
+<config key="sleep_time_max" value="0.5" />
+<config key="106.14.13.223" value="The benching and benched machine" />
+<config key="duration" value="20" />
+<config key="method" value="test_simple" />
+<config key="log_xml" value="/Users/mier/Documents/pythonws/funkload-demo106.14.13.223/simple/simple-bench.xml" />
+<config key="class" value="Simple" />
+<config key="python_version" value="2.7.10" />

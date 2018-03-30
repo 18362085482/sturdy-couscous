@@ -1,0 +1,32 @@
+2018-03-30 16:30:33,428 INFO Init XML/RPC server localhost:8008.
+2018-03-30 16:30:33,484 INFO XML/RPC server pid=2298 running.
+2018-03-30 16:31:24,520 INFO stopServer request.
+2018-03-30 16:31:25,022 INFO XML/RPC server pid=2298 stopped.
+2018-03-30 16:31:26,183 INFO Init XML/RPC server localhost:8008.
+2018-03-30 16:31:26,253 INFO XML/RPC server pid=2367 running.
+2018-03-30 16:31:27,086 INFO stopServer request.
+2018-03-30 16:31:27,587 INFO XML/RPC server pid=2367 stopped.
+2018-03-30 16:31:28,653 INFO Init XML/RPC server localhost:8008.
+2018-03-30 16:31:28,720 INFO XML/RPC server pid=2410 running.
+2018-03-30 16:31:29,560 INFO stopServer request.
+2018-03-30 16:31:30,061 INFO XML/RPC server pid=2410 stopped.
+2018-03-30 16:33:50,971 INFO Init XML/RPC server localhost:8008.
+2018-03-30 16:33:51,027 INFO XML/RPC server pid=2721 running.
+2018-03-30 16:36:37,035 INFO stopServer request.
+2018-03-30 16:36:37,536 INFO XML/RPC server pid=2721 stopped.
+2018-03-30 16:41:28,859 INFO Init XML/RPC server localhost:8008.
+2018-03-30 16:41:28,909 INFO XML/RPC server pid=3464 running.
+2018-03-30 16:41:39,640 INFO stopServer request.
+2018-03-30 16:41:40,142 INFO XML/RPC server pid=3464 stopped.
+2018-03-30 16:41:40,154 INFO Init XML/RPC server localhost:8008.
+2018-03-30 16:41:40,222 INFO XML/RPC server pid=3653 running.
+2018-03-30 16:44:11,796 INFO stopServer request.
+2018-03-30 16:44:12,298 INFO XML/RPC server pid=3653 stopped.
+2018-03-30 16:45:24,271 INFO Init XML/RPC server localhost:8008.
+2018-03-30 16:45:24,322 INFO XML/RPC server pid=4159 running.
+2018-03-30 16:47:57,148 INFO stopServer request.
+2018-03-30 16:47:57,650 INFO XML/RPC server pid=4159 stopped.
+2018-03-30 16:49:40,347 INFO Init XML/RPC server localhost:8008.
+2018-03-30 16:49:40,412 INFO XML/RPC server pid=4617 running.
+2018-03-30 16:52:16,899 INFO stopServer request.
+2018-03-30 16:52:17,401 INFO XML/RPC server pid=4617 stopped.
